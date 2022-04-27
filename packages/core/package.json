@@ -1,6 +1,6 @@
 {
   "name": "@dasubh/monorepo-core",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "core functions",
   "main": "index.js",
   "license": "MIT",
