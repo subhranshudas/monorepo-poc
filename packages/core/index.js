@@ -1,1 +1,1 @@
-console.log('i am core module!')
+console.log('i am core module from the Monorepo')
