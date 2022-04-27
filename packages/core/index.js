@@ -1,2 +1,2 @@
 console.log('this is core functionality')
-console.log('this is latest test')
+console.log('welcome')
