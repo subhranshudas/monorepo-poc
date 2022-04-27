@@ -7,6 +7,9 @@
       "allowBranch": "main",
       "ignoreChanges": ["*.md"],
       "message": "chore(release): publish"
+    },
+    "publish": {
+      "conventionalCommits": true
     }
   },
   "npmClient": "yarn",
