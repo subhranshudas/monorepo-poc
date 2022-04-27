@@ -1,3 +1,3 @@
 import * as Logger from '@dasubh/monorepo-logger';
-console.log('Utils are cool!');
+console.log('Utils are cool yay!');
 
