@@ -1,6 +1,6 @@
 {
   "name": "@dasubh/monorepo-util",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "util functions",
   "main": "index.js",
   "license": "MIT",
