@@ -1,6 +1,6 @@
 {
   "name": "@dasubh/monorepo-logger",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "logging functions",
   "main": "index.js",
   "license": "MIT",
