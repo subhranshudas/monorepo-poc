@@ -1,0 +1,11 @@
+{
+  "name": "@dasubh/monorepo-core",
+  "version": "0.0.0",
+  "description": "core functions",
+  "main": "index.js",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  }
+}
